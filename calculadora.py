@@ -5,3 +5,5 @@ num2 = int (input("Ingrese el segundo numero: "))
 
 print (f"La suma de los 2 valores es: {num1 + num2}")
 print (f"La resta de los 2 valores es: {num1 - num2}")
+print (f"La resta de los 2 valores es: {num1 * num2}") 
+print (f"La resta de los 2 valores es: {num1 / num2}") 
